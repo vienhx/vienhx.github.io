@@ -2,9 +2,9 @@
 permalink:           pretty
 
 # Setup
-title:               Jami Gibbs
-tagline:             Software Developer from Chicago.
-url:                 http://jamigibbs.com
+title:               Hồng Xuân Viên (Vien Hong)
+tagline:             Back-End Engineering from Ho Chi Minh City.
+url:                 http://vienhx.me
 paginate:            1
 baseurl:             ""
 
@@ -19,16 +19,23 @@ sass:
 author:
   name:              Jami Gibbs
   url:               https://twitter.com/jamigibbs
-  email:             jami0821@gmail.com
+  email:             vien.hongxuan@gmail.com
 
 # Custom vars
 version:             2.0.1
 github:
-  repo:              https://github.com/jamigibbs/portfolio
-google_analytics:    UA-3363703-15
-twitter:             jamigibbs
-github:              jamigibbs
-dribbble:            jamigibbs
+  repo:              https://github.com/vienhx/vienhx.github.io
+google_analytics:    UA-174933187-1
+twitter:             vienhx
+github:              vienhx
+linkedin:            vienhx
+email:               vien.hongxuan@gmail.com
+
+profile_url:
+  linkedin:          https://www.linkedin.com/in/vienhx/
+  github:            https://github.com/vienhx
+  facebook:          https://www.facebook.com/vienhx/
+  twitter:           https://twitter.com/vienhx
 
 # Gems
 plugins:
